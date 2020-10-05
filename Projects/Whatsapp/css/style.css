@@ -236,14 +236,12 @@
     height: 27.5px;
     padding: 1px;
     margin-top: 5px;
-    padding: 0 5px;
     padding-left: 6px;
     cursor: pointer;
 }
 
 #search{
     height: 25px;
-    padding: 1px;
     margin-top: 5px;
     padding: 0 5px;
     padding-right: 10px;
